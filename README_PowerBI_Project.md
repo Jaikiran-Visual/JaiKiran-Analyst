@@ -3,8 +3,6 @@
 **Tools:** Power BI, DAX
 **Dataset:** 1,000+ customer records
 **Date:** June 2026
-**Live Dashboard:** [View on Power BI Service →](#) *(replace with your live link)*
-
 ---
 
 ## 📌 Project Overview
@@ -72,10 +70,6 @@ SWITCH(
 <img width="1375" height="774" alt="Screenshot 2026-06-06 174028" src="https://github.com/user-attachments/assets/bdcaaa98-3c4f-4ac8-b17f-5653c4a96c45" />
 ---
 
-## 🔗 Live Dashboard
-
-👉 [Click here to view the live interactive dashboard on Power BI Service](#)
-*(Replace `#` with your actual Power BI Service share link)*
 
 ---
 
