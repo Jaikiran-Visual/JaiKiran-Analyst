@@ -1,4 +1,3 @@
-<img width="1158" height="638" alt="Screenshot 2026-06-05 112152" src="https://github.com/user-attachments/assets/8168ad44-4649-48a7-92e6-5a052ba8693c" />
 # 🚲 Bike Sales Data Analysis & Dashboard
 
 **Tools:** Microsoft Excel (Pivot Tables, Power Query, Charts)
