@@ -112,16 +112,6 @@ GROUP BY Gender;
 
 ---
 
-## 📁 Files in This Repo
-
-```
-├── bike_buyers_analysis.sql    # All 7 SQL queries
-├── bike_buyers.db              # SQLite database
-├── README.md                   # This file
-└── results/
-    └── query_outputs.png       # Screenshot of key query results
-```
-
 ---
 
 ## 🔗 Connect
