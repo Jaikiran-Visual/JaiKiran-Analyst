@@ -69,22 +69,8 @@ SWITCH(
 ---
 
 ## 🖼️ Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here)*
-> Tip: Export as PNG from Power BI → upload to a `screenshots/` folder → reference below
-
+<img width="1375" height="774" alt="Screenshot 2026-06-06 174028" src="https://github.com/user-attachments/assets/bdcaaa98-3c4f-4ac8-b17f-5653c4a96c45" />
 ![Dashboard Preview](screenshots/powerbi_dashboard.png)
-
----
-
-## 📁 Files in This Repo
-
-```
-├── bike_buyers_dashboard.pbix  # Power BI project file
-├── README.md                   # This file
-└── screenshots/
-    └── powerbi_dashboard.png   # Dashboard screenshot
-```
 
 ---
 
