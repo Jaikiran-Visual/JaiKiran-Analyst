@@ -48,20 +48,9 @@ Without clear segmentation, marketing budgets get spread thin across all demogra
 
 ---
 
-## 📁 Files in This Repo
-
-```
-├── bike_sales_dashboard.xlsx   # Main Excel file with dashboard
-├── README.md                   # This file
-└── screenshots/
-    └── dashboard_preview.png   # Dashboard screenshot
-```
-
----
-
 ## 📸 Dashboard Preview
 
-> *(Add a screenshot of your Excel dashboard here)*<img width="1158" height="638" alt="Screenshot 2026-06-05 112152" src="https://github.com/user-attachments/assets/1bf6bad3-1d77-4946-9812-aa15fd14e5a3" />
+> <img width="1158" height="638" alt="Screenshot 2026-06-05 112152" src="https://github.com/user-attachments/assets/1bf6bad3-1d77-4946-9812-aa15fd14e5a3" />
 
 
 ---
