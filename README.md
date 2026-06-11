@@ -18,12 +18,11 @@ I turn raw data into business decisions. I work at the intersection of **data an
 ## 📊 Featured Projects
 
 | Project | Tools | Key Impact |
-|---|---|---|
-| [🚲 Bike Sales Excel Dashboard](#) | Excel, Pivot Tables | Identified top buyer personas → ~25% better targeting precision |
-| [🔍 Bike Buyers SQL Analysis](#) | SQL, SQLite | Found 40%+ higher conversion in short-commute segment |
-| [📈 Bike Buyers Power BI Dashboard](#) | Power BI, DAX | Cut reporting time by 3–4 hrs; 60% faster data-to-decision |
+| :--- | :--- | :--- |
+| 🚲 [Bike Sales Excel Dashboard](./README_Excel_Project.md) | Excel, Pivot Tables | Identified top buyer personas → ~25% better targeting precision |
+| 🔍 [Bike Buyers SQL Analysis](./README_SQL_Project.md) | SQL, SQLite | Found 40%+ higher conversion in short-commute segment |
+| 📈 [Bike Buyers Power BI Dashboard](./README_PowerBI_Project.md) | Power BI, DAX | Cut reporting time by 3–4 hrs; 60% faster data-to-decision |
 
-> 🔗 Replace `#` above with your actual GitHub repo links once uploaded.
 
 ---
 
