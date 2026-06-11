@@ -70,8 +70,6 @@ SWITCH(
 
 ## 🖼️ Dashboard Preview
 <img width="1375" height="774" alt="Screenshot 2026-06-06 174028" src="https://github.com/user-attachments/assets/bdcaaa98-3c4f-4ac8-b17f-5653c4a96c45" />
-![Dashboard Preview](screenshots/powerbi_dashboard.png)
-
 ---
 
 ## 🔗 Live Dashboard
