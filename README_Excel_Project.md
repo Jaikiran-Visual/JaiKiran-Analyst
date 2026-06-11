@@ -1,3 +1,4 @@
+<img width="1158" height="638" alt="Screenshot 2026-06-05 112152" src="https://github.com/user-attachments/assets/8168ad44-4649-48a7-92e6-5a052ba8693c" />
 # 🚲 Bike Sales Data Analysis & Dashboard
 
 **Tools:** Microsoft Excel (Pivot Tables, Power Query, Charts)
@@ -61,7 +62,8 @@ Without clear segmentation, marketing budgets get spread thin across all demogra
 
 ## 📸 Dashboard Preview
 
-> *(Add a screenshot of your Excel dashboard here)*
+> *(Add a screenshot of your Excel dashboard here)*<img width="1158" height="638" alt="Screenshot 2026-06-05 112152" src="https://github.com/user-attachments/assets/1bf6bad3-1d77-4946-9812-aa15fd14e5a3" />
+
 > Tip: Take a screenshot → save as `dashboard_preview.png` → upload to a `screenshots/` folder in this repo
 
 ---
