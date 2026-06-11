@@ -43,14 +43,4 @@ I turn raw data into business decisions. I work at the intersection of **data an
 ---
 ---
 
-## 📊 My Data Analytics Projects
-
-### 1. [Excel Sales Dashboard Project](./README_Excel_Project.md)
-* Interactive sales trends dashboard using Pivot Tables and demographic data.
-
-### 2. [SQL Data Analysis Project](./README_SQL_Project.md)
-* Database queries analyzing bike buyer profiles and purchasing patterns.
-
-### 3. [Power BI Dashboard Project](./README_PowerBI_Project.md)
-* Dynamic, interactive visualizations built to track buyer behaviors.
 *"Data is only valuable when it drives a decision."*
